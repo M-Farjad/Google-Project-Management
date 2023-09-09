@@ -1,0 +1,16 @@
+Agile Process: 
+
+=> Functionality
+=> Planning
+=> Implementation
+=> Testing
+=> Review
+
+Issue: 
+
+=> Essentially an element within your story
+=> Task,
+ Bug,
+ Story(breaking down what is required to achieve your Epic),
+ Epic(an abstract view of what we are creating for our client)
+
